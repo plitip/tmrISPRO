@@ -4,7 +4,7 @@
   "description": "ya boi made this bot",
   "main": "index.js",
   "scripts": {
-    "start": "nodes index.js"
+    "start": "node ."
   },
   "author": "tmr",
   "license": "ISC",
