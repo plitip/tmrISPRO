@@ -1,16 +1,17 @@
 {
   "name": "tmr-bot",
-  "version": "1.0.0",
+  "version": "1.2.9",
   "description": "ya boi made this bot",
-  "main": "index.js",
+  "main": "index.js",	
   "scripts": {
-    "start": "node index.js"
-  },
+
+    "start": "node bot.js"
+
+    },
   "author": "tmr",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
-    "request": "2.81.0",    
     "discord.js": "^12.1.1",
     "ffmpeg-static": "^4.1.1",
     "fs": "0.0.1-security",
